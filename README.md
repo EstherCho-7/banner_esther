@@ -2,6 +2,11 @@
 
 ## **Usage**
 
+### 설치
+```
+pip install banner_esther
+```
+
 ### 입력
 ```
 $ show-banner
