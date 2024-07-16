@@ -5,7 +5,7 @@
 
 ## **FAQ**
 - **Q.** 어디서 사용하면 되나요?
-- **A.** pip install 후 LINUX Prompt에 입력 코드를 작성하면 됩니다.
+- **A.** LINUX Prompt에 pip install 후 입력 코드를 작성하면 됩니다.
 
 
 ## **사용법**
