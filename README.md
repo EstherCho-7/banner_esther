@@ -1,13 +1,24 @@
-# banner_esther
+## **개요**
+- pip publish 및 Markdown 사용법 익히기
 
-## **Usage**
+## **FAQ**
+- **Q.** 어디서 사용하면 되나요?
+- **A.** LINUX Prompt에 pip install 후 입력 코드를 작성하면 됩니다.
 
-### 배너 출력하기
+
+## **사용법**
+
+### 설치
+```
+$ pip install banner_esther
+```
+
+### 입력
 ```
 $ show-banner
 ```
 
-### 결과
+### 출력
 ```
     ______     __  __
    / ____/____/ /_/ /_  ___  _____
