@@ -12,7 +12,7 @@
 
 ### 설치
 ```
-pip install banner_esther
+$ pip install banner_esther
 ```
 
 ### 입력
