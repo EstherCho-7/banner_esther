@@ -1,4 +1,6 @@
 # banner_esther
 
 ## **Usage**
-- $ show-banner
+```
+$ show-banner
+```
